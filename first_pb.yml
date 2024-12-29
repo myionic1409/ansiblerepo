@@ -1,5 +1,5 @@
 ---
-- name: First Basic Playbook
+- name: First Basic PB
   hosts: localhost
   
   tasks:
